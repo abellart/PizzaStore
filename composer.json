@@ -1,0 +1,19 @@
+{
+    "name": "abellart/pizzastore",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Abellart\\Pizzastore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anna",
+            "email": "mail@mail.ru"
+        }
+    ],
+    "require-dev": {
+        "phpstan/phpstan": "1.11.x-dev"
+    },
+    "minimum-stability": "dev"
+}
