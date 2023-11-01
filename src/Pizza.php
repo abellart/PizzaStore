@@ -1,5 +1,7 @@
 <?php
 
+namespace Abellart\Pizzastore;
+
 abstract class Pizza
 {
     public string $name;

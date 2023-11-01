@@ -1,5 +1,7 @@
 <?php
 
+namespace Abellart\Pizzastore;
+
 abstract class PizzaStore
 {
     abstract public function createPizza(string $type): Pizza;
