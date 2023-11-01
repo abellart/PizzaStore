@@ -12,8 +12,5 @@
             "email": "mail@mail.ru"
         }
     ],
-    "require-dev": {
-        "phpstan/phpstan": "1.11.x-dev"
-    },
     "minimum-stability": "dev"
 }
